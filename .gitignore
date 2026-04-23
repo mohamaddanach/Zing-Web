@@ -1,0 +1,15 @@
+# Dependencies (The biggest folder you want to ignore)
+node_modules/
+
+# Environment variables (Contains secret keys/passwords)
+.env
+*.env.local
+
+# Build folders (Generated files for production)
+dist/
+build/
+out/
+
+# Operating system files
+.DS_Store
+Thumbs.db
